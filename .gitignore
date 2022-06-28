@@ -1,7 +1,4 @@
-/.browserslistrc
-/package.json
 /package-lock.json
-/webpack.config.js
 /.idea/
 /dist/
 /node_modules/
