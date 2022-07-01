@@ -1,0 +1,8 @@
+.header {
+  padding: 26px 260px;
+}
+
+.header__container {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+}
